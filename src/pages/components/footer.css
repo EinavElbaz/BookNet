@@ -1,0 +1,10 @@
+#footer {
+    font-style: italic;
+    font-size: 22px;
+    text-align: center;
+    background-color: #fdcbcb;
+    /* position: absolute;  */
+    bottom:0;
+margin-top: 20vh;
+}
+

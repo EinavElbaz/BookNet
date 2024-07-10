@@ -1,0 +1,9 @@
+#filtersBottum{
+    display: flex;    
+    text-align: center;
+}
+#f{
+    border: 20px;
+    padding: 20px;
+    margin: 50px;
+}

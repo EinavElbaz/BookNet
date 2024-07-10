@@ -1,0 +1,69 @@
+* {
+    direction: rtl;
+    font-style: italic;
+} 
+/* .reshima {
+    display: flex;
+    justify-content: space-around;
+} */
+#filtersBottum{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 10px;
+}
+#f{
+    padding: 20px;
+}
+/* ============== */
+/* @media(max-width: 767px) {
+    #mobile_menu {
+        position: absolute;
+        transform: scale(0);
+        transition: all 0.25s 0.5s;
+    }
+    #menu {
+        display: block;
+    }
+
+    .search1, #header_nav {
+        display: none;
+    }
+    .ecbr2{
+        flex-wrap: nowrap;
+    }
+    a#humburger:focus+#mobile_menu {
+        transform: none;
+        transition-delay:0s ;
+    }
+    #mobile_menu{
+        flex-wrap: nowrap;
+    }
+    .logoreshima{
+        display: flex;
+    }
+}  */
+
+
+
+/* #newNavBar {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  } */
+#search{
+    background-color: rgb(235, 229, 229);
+    direction: rtl;
+}
+#abuot{
+    text-align: center;
+}
+#login{
+    display: none;
+}
+#partButtom{
+    margin-left: 16px
+}
+#newNavBar{
+    text-align: center;
+} 
